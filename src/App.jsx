@@ -9,7 +9,7 @@ export default function App() {
       <section>
         <div>
           <img src={iconSedans} alt="icone dos carros sedan" />
-          <h2>Sedans</h2>
+          <h2 className="text-3xl">Sedans</h2>
           <p>Escolha um sedan pelo seu preço acessível e excelente economia de combustível. Ideal para dirigir na cidade ou na sua próxima viagem.</p>
           <a href="https://www.webmotors.com.br/sedans" target='_blanck'>Ver Mais</a>
 
