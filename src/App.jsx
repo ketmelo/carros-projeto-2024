@@ -7,19 +7,12 @@ import Suvs from './components/Suvs'
 export default function App() {
   return (
     <main className='min-h-svh bg-offwhitebg py-20 px-6 antialiased lg: flex justify-center items-center'>
-      <section className='lg:flex max-w-[926px]'>
-
+      <div className='lg:flex max-w-[926px]'>
+    
         <Sedans/>
         <Suvs/>
         <Luxuosos/>
-
-        
-       
-
-
-      </section>
-
-
+      </div>
     </main>
   )
 }
