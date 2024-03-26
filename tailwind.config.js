@@ -13,6 +13,10 @@ export default {
       'white': '#fff',
       'offwhitebg': '#f2f2f2'
 
+    },
+    fontFamily:{
+      'shouders': ' "Big Shourders Display" ',
+      'lexend': '"Lexend Deca'
     }
   },
   plugins: [],
